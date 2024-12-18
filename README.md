@@ -1,4 +1,5 @@
-# Parallelizing Text-to-Image Generation Using Diffusion
+# Parallelizing Text-to-Image Generation Using Diffusion ( in Discovery Cluster )
+## Check PPT to get complete idea about the project
 
 ## Team Members:
 - Abdul Azeem Syed 
