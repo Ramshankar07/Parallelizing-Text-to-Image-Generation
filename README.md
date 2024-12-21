@@ -1,5 +1,5 @@
 # Parallelizing Text-to-Image Generation Using Diffusion ( in Discovery Cluster )
-## Check PPT to get complete idea about the project
+## Check ([HERE](https://github.com/Ramshankar07/Parallelizing-Text-to-Image-Generation/blob/c3e3575c2ab6fac44ec40518287ae74f1b73a2a9/TEXT%20TO%20IMAGE%20GENERATION%20USING%20PARALLEL%20COMPUTING.pdf)) to get complete idea about the project
 
 ## Team Members:
 - Abdul Azeem Syed 
